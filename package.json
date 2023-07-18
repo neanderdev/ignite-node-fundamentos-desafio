@@ -1,0 +1,24 @@
+{
+  "name": "ignite-node-fundamentos-desafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neanderdev/ignite-node-fundamentos-desafio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neanderdev/ignite-node-fundamentos-desafio/issues"
+  },
+  "homepage": "https://github.com/neanderdev/ignite-node-fundamentos-desafio#readme",
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
